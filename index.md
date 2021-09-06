@@ -1,13 +1,18 @@
-## Markdown
-[HereBo]（https://herebo.github.io/blog/)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Bo's Pages](https://herebo.github.io/blog)
+
+## Pages
+ 学习
 
 ```markdown
 Syntax highlighted code block
 
+
+
 # Header 1
 ## Header 2
 ### Header 3
+
+
 
 - Bulleted
 - List
@@ -21,6 +26,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 ### Jekyll Themes
 
